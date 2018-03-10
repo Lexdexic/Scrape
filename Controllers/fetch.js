@@ -22,3 +22,4 @@ module.exports = {
     }
 };
 // why is there always so much crap on my keyboard???
+// i know its my dander and hair, but i feel like im always cleaning it...
